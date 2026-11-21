@@ -1,0 +1,20 @@
+- name: this is MSG-01
+  ansible.builtin.debig:
+    mgs: "MGS-01"
+
+- name: this is MSG-02
+  ansible.builtin.debig:
+    mgs: "MGS-02"
+
+- name: this is MSG-03
+  ansible.builtin.debig:
+    mgs: "MGS-03"
+
+- name: this is MSG-04
+  ansible.builtin.debig:
+    mgs: "MGS-04"
+
+- name: this is MSG-05
+  ansible.builtin.debig:
+    mgs: "MGS-05"
+
