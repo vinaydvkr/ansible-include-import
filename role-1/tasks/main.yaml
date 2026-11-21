@@ -1,0 +1,3 @@
+- name: call common role
+  include_role: 
+    name: commom
